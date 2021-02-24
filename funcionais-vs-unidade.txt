@@ -1,0 +1,7 @@
+Os testes funcionais também são conhecidos como testes de caixa preta.
+Eles são escritos com base apenas na interface do sistema sob testes, ou seja, não há conhecimento do código.
+Se a missão do teste for analisar um método como uma caixa preta, as únicas informações disponíveis são seu nome, parâmetros, tipos e exceções de retorno.
+Os testes funcionais estão preocupados em testar uma funcionalidade do sistema sob testes.
+
+Os testes de unidades são utilizados para testar pequenas unidades de código no sistema, como uma classe, de forma isolada.
+Um teste de unidade chama os métodos de uma classe e verifica se eles retornam os resultados esperados.
