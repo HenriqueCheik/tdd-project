@@ -1,0 +1,2 @@
+O que acontece na figura é que o teste funcional geralmente utiliza diversas das funções do sistema para testar sua interface.
+Então, quando escrevemos o teste funcional, devemos criar os testes das classes que compõe o sistema, necessitando então escrever primeiramente os testes de unidade e então desenvolver seu código a partir do modelo do TDD.
